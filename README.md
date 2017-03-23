@@ -57,6 +57,11 @@ Rails (Intermediate)
   - Testing (*rspec*, *guard*, *simple_cov*, *metric_fu*)
   - Acceptance Testing (*capybara* - Selenium / WebKit)
   - Security and Configuration Storage (*figaro*)
+  - Skinny Controller, Fat Models
+  - Refactoring views (helper.rb)
+  - Rake Tasks
+  - Rails Services
+  - Rails Transactions
 
 Deployment
 -----------
