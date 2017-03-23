@@ -3,6 +3,13 @@ AlphaCamp Wrap-up
 
 Consolidated material taught during the **AlphaCamp SG Web-Batch #2**.
 
+Terminal
+---------
+  - HomeBrew
+  - iTerm2
+  - ZSH (~/.zshrc)
+  - Oh My ZSH (ZSH themes)
+
 Version Control (GIT)
 ----------------------
   - Commit Less, Commit Often
