@@ -79,7 +79,7 @@ User Stories
 -------------
   - Best practices for writing user stories
 
-Resources
-----------
-  - [Gems Toolkit][Gems\ Toolkit]
+Useful Resources
+-----------------
+[Gems Toolkit](Gems-Toolkit)
 
