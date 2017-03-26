@@ -49,7 +49,7 @@ Rails (Basics)
 Rails (Intermediate)
 ---------------------
   - Authentication (*devise* & *cancancan*)
-  - Beautiful HTML & JS (Slim & CoffeeScript)
+  - Beautiful HTML, CSS & JS (Slim, SASS & CoffeeScript)
   - Rails ActionMailer (SMTP - Gmail)
   - Building an API (*rabl*)
   - Payment (Stripe)
